@@ -73,3 +73,12 @@
 	4. Volumes: Persistent data storage mechanisms that can be attached to containers, allowing data to persist across container restarts.
 	5. Services: A way of scaling containers across multiple Docker hosts, managed by a single Docker Compose file.
 	6. Swarms: A group of Docker hosts that are managed as a single entity, allowing for easy orchestration and scaling of containerized applications.
+
+
+# Why do we need **Containers**?
+
+- For that I have some blogs that will help :)
+	* [first](https://cloudnativeislamabad.hashnode.dev/introduction-to-docker-part-1)
+	* [second](https://cloudnativeislamabad.hashnode.dev/introduction-to-docker-part2-virtual-machines-vs-docker-containers)
+
+- If you stuck somewhere, Just go to `Twitter or X` and search with `#docker, #container` *why we need container*. That's it.
